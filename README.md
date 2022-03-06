@@ -16,3 +16,13 @@ To this end, we conduct **I**nstance-**L**evel **D**ifficulty **A**nalysis of **
 
 Comprehensive experiments for these applications result in several interesting findings, such as evaluation using just _5%_ instances (selected via ILDAE) achieves as high as _0.93_ Kendall correlation with evaluation using complete dataset and computing weighted accuracy using difficulty scores leads to _5.2%_ higher Kendall correlation with Out-of-Domain performance.
 We release our computed difficulty scores [https://github.com/nrjvarshney/ILDAE](https://github.com/nrjvarshney/ILDAE) to encourage research in important yet understudied areas such as efficient evaluations and difficulty analysis.
+
+
+<p align="center">
+  <img 
+    width="500"
+    height="500"
+    src="https://github.com/nrjvarshney/ILDAE/blob/main/Pictures/Teaser4.png"
+  >
+</p> 
+
